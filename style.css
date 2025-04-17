@@ -9,6 +9,8 @@
 h1 {
     font-size: 354pt;
     font-family: "Special Gothic Condensed One", sans-serif;
+    /*font-family: "Alfa Slab One", serif; */
+    /* font for marshals with vision issues */
     font-weight: bold;
     font-style: italic;
     letter-spacing: 15px; /* you can add space between letters */
