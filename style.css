@@ -11,6 +11,7 @@ h1 {
     font-family: "Special Gothic Condensed One", sans-serif;
     font-weight: bold;
     font-style: italic;
-    letter-spacing: 15px;
-    text-shadow: 10px 10px #f6ff00;
+    letter-spacing: 15px; /* you can add space between letters */
+    text-shadow: 10px 10px #ffea00; /*change the width of shadow (x,y axis) and color */
+    transform: scale(1, .7); /* you can make letters taller if increase .7 to .8 and more*/
 }
